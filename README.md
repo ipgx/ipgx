@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+👋 Hi, I’m @parag-x-gupta
+👀 I’m interested in Data Science and Web Development
+🌱 I’m currently working on some of my Passion Projects
+💞️ I’m looking to collaborate on Transportation Planning\Travel Demand Modeling Projects
+📫 How to reach me : gupta.parag@pm.me
+⚡ Fun fact: I am an Architect and a Photographer who fell in love with programming
+
 <!--
 **ipgx/ipgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
